@@ -16,7 +16,7 @@
 2. 於連結下載檔案並解壓縮獲得一資料夾  
 3. 將anaconda終端所在位置移動至檔案資料夾  
 4. 執行pip install -r requirement.txt
-5. [**CHICKEN_MODEL**](https://github.com/RuiXiangZhou/chicken_detect/releases/download/chicken_detect_model.pt)
+5. [*CHICKEN_MODEL*](https://github.com/RuiXiangZhou/chicken_detect/releases/download/chicken_detect_model/best_chi.pt)
 6. 將欲辨識的照片放在"sourse"資料夾中  
 7. 執行python chicken_test.py  
 8. 辨識結果的照片將存在"result"資料夾中  
