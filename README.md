@@ -1,4 +1,5 @@
-# chicken_detect
+# 土雞辨識模型
+## chicken_detect
  
 此模型能夠將照片中的雞隻自動辨識出來  
 模型可視化展示如下圖:  
