@@ -19,4 +19,9 @@
 5. 下載辨識模型[**chicken_model**](https://github.com/RuiXiangZhou/chicken_detect/releases/download/chicken_detect_model/best_chi.pt)並置於chicken_detect資料夾中
 6. 將欲辨識的照片放在"sourse"資料夾中  
 7. 執行python chicken_test.py  
-8. 辨識結果的照片將存在"result"資料夾中  
+8. 辨識結果的照片將存在"result"資料夾中
+
+
+## Acknowledgements
+https://github.com/WongKinYiu/yolov7/
+
