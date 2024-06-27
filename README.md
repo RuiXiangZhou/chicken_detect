@@ -10,6 +10,7 @@
 輸入: 照片  
 輸出: 框選完之照片  
 使用步驟:  
+
 0. 使用anaconda建立一個虛擬環境  
 1. 根據安裝的cuda版本下載pytorch，網址:https://pytorch.org/get-started/locally/  
 2. 於連結下載檔案並解壓縮獲得一資料夾  
